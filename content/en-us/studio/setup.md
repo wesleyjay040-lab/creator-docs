@@ -1,7 +1,7 @@
----
-title: Roblox Studio setup
-description: Explains how to install Roblox Studio on your system.
----
+make a Brainrot 
+to.sell
+ok<img width="720" height="1640" alt="1000000471" src="https://github.com/user-attachments/assets/f964163c-8e98-4218-8bc2-b79ec0e4d7d8" />
+
 
 import StudioSystemReqs from '../includes/studio/system-reqs.md'
 
